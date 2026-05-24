@@ -40,7 +40,6 @@ IoT-Smart-Energy-Meter/
 ├── code/
 ├── circuit-diagram/
 ├── images/
-├── screenshots/
 ├── docs/
 └── README.md
 ```
